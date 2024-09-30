@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a70f6d4a3303563469e83a619e250568, type: 3}
+  m_Name: Eyeball
+  m_EditorClassIdentifier: 
+  i_Name: Eyeball
+  ingredient: {fileID: 3703508141903763625, guid: 1c0f0f071973737408b88a6f46f1c022, type: 3}
+  image: {fileID: 21300000, guid: e6ac9fb53da8c7f4cbc1a0befe10d404, type: 3}
+  price: 150
+  currentlySpawned: 0
+  avalaible: 0

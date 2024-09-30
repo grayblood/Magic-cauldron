@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a70f6d4a3303563469e83a619e250568, type: 3}
+  m_Name: Ginger
+  m_EditorClassIdentifier: 
+  i_Name: Ginger
+  ingredient: {fileID: 7644734385031728431, guid: 325e63d33ee6d074c8be96dcf603d58e, type: 3}
+  image: {fileID: 21300000, guid: 532fadf4dd574a443bcb8e5e48997152, type: 3}
+  price: 0
+  currentlySpawned: 0
+  avalaible: 1

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6ee045cfdf4f4b41849a23be5d644f5, type: 3}
+  m_Name: Poison_R
+  m_EditorClassIdentifier: 
+  recipe:
+    r_Name: Poison
+    type: 0
+    o_Data: {fileID: 11400000, guid: 27dbee9a6a5e5ac468310210f1685f45, type: 2}
+    ingredients:
+    - {fileID: 11400000, guid: 383a9639c5c7d644da12f78793de1203, type: 2}
+    - {fileID: 11400000, guid: 7f2f99210e041324e946a164d7b74216, type: 2}
+    - {fileID: 11400000, guid: c0c7e25b2706f444e9280f2110cd8a35, type: 2}
+    discovered: 0

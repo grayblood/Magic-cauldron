@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6ee045cfdf4f4b41849a23be5d644f5, type: 3}
+  m_Name: Crystal_Blue_R
+  m_EditorClassIdentifier: 
+  recipe:
+    r_Name: Crystal Blue
+    type: 1
+    o_Data: {fileID: 11400000, guid: 2cf7350d1de2d024d9b2b2aeb890f8ce, type: 2}
+    ingredients:
+    - {fileID: 11400000, guid: 8c67543ff7c24b74896b311c90f3fa9c, type: 2}
+    - {fileID: 11400000, guid: 54f9f2252821b1f4b9505b19b4eebc2c, type: 2}
+    - {fileID: 11400000, guid: 101117bc0b5e51342a4611b05775eed2, type: 2}
+    discovered: 0

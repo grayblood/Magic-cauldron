@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6ee045cfdf4f4b41849a23be5d644f5, type: 3}
+  m_Name: Dragon_Fang
+  m_EditorClassIdentifier: 
+  recipe:
+    r_Name: Dragon_Fang
+    type: 1
+    o_Data: {fileID: 11400000, guid: b26e55b65fe4cf5439147557ffdb5984, type: 2}
+    ingredients:
+    - {fileID: 11400000, guid: ee84b0ecd83ce4641a5947c2f9fef31f, type: 2}
+    - {fileID: 11400000, guid: 545e2c50059055640bdd6fa5bb5141cc, type: 2}
+    - {fileID: 11400000, guid: c0c7e25b2706f444e9280f2110cd8a35, type: 2}
+    discovered: 0

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a70f6d4a3303563469e83a619e250568, type: 3}
+  m_Name: Blue_Crystal
+  m_EditorClassIdentifier: 
+  i_Name: Blue Crystal
+  ingredient: {fileID: 3144228197212046898, guid: 7d6120ff477d5064daff3a7aa966007e, type: 3}
+  image: {fileID: 21300000, guid: fa7b831c4075ac646896e6e342f17d3b, type: 3}
+  price: 5
+  currentlySpawned: 0
+  avalaible: 0
